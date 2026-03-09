@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BavanthikaAS/Day-5/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BavanthikaAS/Day-5/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BavanthikaAS/Day-5/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BavanthikaAS/Day-5/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BavanthikaAS/Day-5/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
